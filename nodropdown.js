@@ -3,10 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Gives shortkeys for special characters
-// @author       Zolhungaj
+// @author       YoshiNubao
 // @match        https://animemusicquiz.com/*
-// @downloadURL  https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqSpecialCharacters.user.js
-// @updateURL    https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqSpecialCharacters.user.js
+// @downloadURL  https://github.com/YoshiNubao/Caracter-pra-jogador-de-nodropdown/raw/master/nodropdown.js
+// @updateURL    https://github.com/YoshiNubao/Caracter-pra-jogador-de-nodropdown/raw/master/nodropdown.js
 // @grant        none
 // @copyright MIT license
 // ==/UserScript==
