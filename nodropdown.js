@@ -13,7 +13,8 @@
 const letterMap = {
     U:"Ū", u:"ū",
     X:"×", x:"×",
-    O:"Ō", o:"ō"
+    O:"Ō", o:"ō",
+    S:"☆", s:"☆"
 }
 
 document.addEventListener("keydown", function(event) {
