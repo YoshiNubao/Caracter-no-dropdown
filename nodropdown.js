@@ -2,7 +2,7 @@
 // @name         AMQ special character inclusion
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Gives shortkeys for special characters
+// @description  Bota letrinha bonitinha
 // @author       YoshiNubao
 // @match        https://animemusicquiz.com/*
 // @downloadURL  https://github.com/YoshiNubao/Caracter-pra-jogador-de-nodropdown/raw/master/nodropdown.js
