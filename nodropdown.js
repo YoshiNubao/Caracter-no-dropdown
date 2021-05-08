@@ -10,6 +10,7 @@
 // @grant        none
 // @copyright MIT license
 // ==/UserScript==
+// Based in Zol's Characters script 👍 : https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqSpecialCharacters.user.js
 const letterMap = {
     U:"Ū", u:"ū",
     X:"×", x:"×",
