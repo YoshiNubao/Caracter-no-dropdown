@@ -12,11 +12,14 @@
 // ==/UserScript==
 // Based in Zol's Characters script 👍 : https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqSpecialCharacters.user.js
 const letterMap = {
-    U:"Ū", u:"ū",
+    U:"♪", u:"♪",
     X:"×", x:"×",
-    O:"Ō", o:"ō",
-    S:"☆", s:"☆",
-    D:"△", d:"△"
+    O:"Ω", o:"Ω",
+    S:"★", s:"☆",
+    D:"△", d:"△",
+    H:"♥", h:"♡",
+    B:"†", b:"†",
+    N:"♪", n:"♪"
 }
 
 document.addEventListener("keydown", function(event) {
